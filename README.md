@@ -1,2 +1,5 @@
-# AWS_Cloud-Service
-클라우드 서비스 개념 이해 및 직접 구성
+# AWS_Cloud_Service
+
+
+## 1. EC2를 이용하여 서버 만들기
+
